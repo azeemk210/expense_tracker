@@ -1,0 +1,62 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+*.env
+.env
+.venv
+venv/
+ENV/
+.env.*
+
+# VSCode
+.vscode/
+
+# Node
+node_modules/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# SQLite
+*.sqlite3
+*.db
+*.sqlite
+
+# Uploads and build artifacts
+uploads/
+dist/
+build/
+
+# Misc
+*.bak
+*.swp
+*.tmp
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Excel/CSV
+*.xlsx
+*.csv
+expenses (?).csv
+expenses (??).csv
+expenses (???).csv
+**/*.csv
+
+# PDF/Images (optional, comment out if you want to keep these in git)
+*.pdf
+*.jpg
+*.jpeg
+*.png
+*.webp
+
+# WhatsApp chat directory
+WhatsApp Chat - B43 Expense/
+WhatsApp Chat - B43 Expense .zip
